@@ -1,2 +1,8 @@
-# Summit---Trivia-Ascent
-One question. One step. One summit. Climb an AI‑built ladder of trivia — bank your winnings before the altitude gets you.
+**Game name**: Summit---Trivia-Ascent
+**Participant details**: Sujit Kumar (sujit.kumar3@ust.com; UID: 245991); Manoj Mamachan (Manoj.Mamachan@ust.com; 183312)
+**How to play** : How the climb works - 15 questions, one ladder. Each correct answer moves you up and raises the stakes. Miss one, and you fall back to your last checkpoint (level 5 and level 10 are safe havens) — walk away anytime to bank exactly what you've earned. 
+**Controls and scoring rules**: Three lifelines, once each: 50:50 clears two wrong answers, Ask the Guide gets a live AI opinion on the question, and Skip swaps in a fresh question at the same difficulty. Every question is generated live by AI for your chosen category — no two climbs are the same.
+**Technologies used**: Claude AI
+**AI tool used and how it was used**: 
+**Browsers tested**: Microsoft Edge and Google Chrome
+**Asset/library credits**:
