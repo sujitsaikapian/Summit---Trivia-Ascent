@@ -1,4 +1,4 @@
-**Game name**: Summit---Trivia-Ascent
+**Game Title**: Summit---Trivia-Ascent
 
 **Participant details**: Sujit Kumar (sujit.kumar3@ust.com; UID: 245991); Manoj Mamachan (Manoj.Mamachan@ust.com; 183312)
 
