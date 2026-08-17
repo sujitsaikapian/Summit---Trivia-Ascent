@@ -10,6 +10,17 @@
 
 **AI tool used and how it was used**: 
 
+Game concept: Created SUMMIT, an AI-powered trivia climbing game.
+Code generation: Used Claude to build the HTML, CSS and JavaScript.
+Dynamic content: Claude generates 15 trivia questions based on the selected category.
+Difficulty progression: Questions increase from Beginner to Impossible.
+AI Guide: Integrated Claude to provide answers, confidence levels and reasoning.
+Structured prompting: Used detailed prompts and JSON output to control responses.
+Reliability: Added response validation and offline fallback questions.
+Game mechanics: Built checkpoints, lifelines, progressive stakes, animations, sound and leaderboard.
+Efficient generation: Generated questions in three parallel batches.
+Key takeaway: Claude served as both coding partner and AI engine within the game.
+
 **Browsers tested**: Microsoft Edge and Google Chrome
 
 **Asset/library credits**: NA
