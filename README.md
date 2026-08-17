@@ -12,4 +12,4 @@
 
 **Browsers tested**: Microsoft Edge and Google Chrome
 
-**Asset/library credits**:
+**Asset/library credits**: NA
